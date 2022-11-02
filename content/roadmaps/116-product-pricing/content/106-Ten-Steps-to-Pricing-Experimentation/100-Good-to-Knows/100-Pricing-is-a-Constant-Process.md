@@ -1,1 +1,0 @@
-# Pricing is a Constant Process

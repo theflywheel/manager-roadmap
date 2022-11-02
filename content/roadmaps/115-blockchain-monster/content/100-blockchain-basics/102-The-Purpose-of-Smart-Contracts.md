@@ -1,1 +1,0 @@
-# The Purpose of Smart Contracts

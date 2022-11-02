@@ -1,1 +1,0 @@
-# Emerging automative technologies

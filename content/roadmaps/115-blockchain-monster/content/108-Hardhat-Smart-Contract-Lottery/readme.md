@@ -1,1 +1,0 @@
-# Hardhat Smart Contract Lottery

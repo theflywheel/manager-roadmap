@@ -1,1 +1,0 @@
-# Remix Simple Storage

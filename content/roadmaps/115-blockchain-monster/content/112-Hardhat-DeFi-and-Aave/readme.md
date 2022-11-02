@@ -1,1 +1,0 @@
-# Hardhat DeFi and Aave

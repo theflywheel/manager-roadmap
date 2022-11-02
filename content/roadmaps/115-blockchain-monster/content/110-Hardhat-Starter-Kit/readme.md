@@ -1,1 +1,0 @@
-# Hardhat Starter Kit

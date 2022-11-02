@@ -1,0 +1,36 @@
+{
+  "seo": {
+    "title": "How to Analyze Business Model",
+    "description": "Learn how to analysis business model or become a business architect with this step by step guide with resources.",
+    "keywords": [
+      "guide to create business model  ",
+      "guide to becoming a business architect"
+    ]
+  },
+  "title": "Business Model",
+  "description": "Learn how to build a modern business model with this step by step guide",
+  "featuredTitle": "Business Model",
+  "featuredDescription": "Step by step guide to building a modern Business Model",
+  "featured": true,
+  "type": "model",
+  "isTextHeavy": false,
+  "isCommunity": false,
+  "isNew": true,
+  "imageUrl": "/roadmaps/business-model.png",
+  "jsonUrl": "/project/business-model.json",
+  "author": {
+    "name": "theflywheel",
+    "url": "https://twitter.com/deeplang_ai"
+  },
+  "pdfUrl": "/pdfs/business-model.pdf",
+  "contentPathsFilePath": "./content-paths.json",
+  "relatedRoadmaps": [
+    "npd-professional",
+    "blockchain",
+    "design-system",
+    "npd-professional"
+  ],
+  "id": "business-model",
+  "metaPath": "/roadmaps/114-business-model/meta.json",
+  "isUpcoming": false
+}

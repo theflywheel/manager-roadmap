@@ -1,1 +1,0 @@
-# NextJS Smart Contract Lottery

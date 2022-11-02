@@ -1,0 +1,37 @@
+{
+  "seo": {
+    "title": "关于电动汽车的一切，技术、商业和政策",
+    "description": "Learn the technology, business and policy with this step by step guide with resources.",
+    "keywords": [
+      "guide to bucome an electric car expert",
+      "technology of electric cars",
+      "business of electric cars",
+      "policy of electric cars"
+    ]
+  },
+  "title": "电动汽车",
+  "description": "电动汽车路线图：技术，业务和政策的指南与资源。",
+  "featuredTitle": "电动汽车",
+  "featuredDescription": "一步步成为现代电动汽车专家",
+  "featured": true,
+  "type": "domain",
+  "isTextHeavy": false,
+  "isCommunity": false,
+  "isNew": true,
+  "imageUrl": "/roadmaps/electric-cars.png",
+  "jsonUrl": "/project/electric-cars.json",
+  "author": {
+    "name": "theflywheel",
+    "url": "https://twitter.com/deeplang_ai"
+  },
+  "pdfUrl": "/pdfs/electric-cars.pdf",
+  "contentPathsFilePath": "./content-paths.json",
+  "relatedRoadmaps": [
+    "npd-professional",
+    "business-model",
+    "npd-professional"
+  ],
+  "id": "electric-cars",
+  "metaPath": "/roadmaps/117-electric-cars/meta.json",
+  "isUpcoming": false
+}

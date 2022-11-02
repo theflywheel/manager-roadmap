@@ -1,1 +1,0 @@
-# A Value Based Pricing Case Study
